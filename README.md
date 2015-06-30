@@ -1,4 +1,4 @@
-# myCalculator_odinproject
+# My very simple Calculator (odinproject task)
 By Stalbek Raimberdiev
 
 Project: Building An On Screen Calculator Using Javascript
